@@ -1,5 +1,5 @@
 {
-    "smugglers": [
+    "Smugglers": [
         {
             "id": 1,
             "name": "Han Solo",
@@ -57,7 +57,7 @@
             "shipid": 2
         }
     ],
-    "ships": [
+    "Ships": [
         {
             "id": 1,
             "nameEn": "Millenium Falcon",
@@ -77,7 +77,7 @@
             "urlImage": "../../assets/img/ships/inferno.png"
         }
     ],
-    "planets": [
+    "Planets": [
         {
             "id": 1,
             "name": "Corellia",
