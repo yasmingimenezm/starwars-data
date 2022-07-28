@@ -1,5 +1,5 @@
 {
-    "smugglers": [
+    "Smugglers": {
         {
             "id": 1,
             "name": "Han Solo",
@@ -56,7 +56,7 @@
             "planetid": 4,
             "shipid": 2
         }
-    ],
+    },
     "ships": [
         {
             "id": 1,
