@@ -1,5 +1,5 @@
 {
     "Smugglers": {
-        "name": "Jonh Doe"
+        "name": {"string": "John Doe"}
     }
 }
